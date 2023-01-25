@@ -120,7 +120,7 @@ const ShortUrl = () => {
               <span className="text-slate-300">ShortMyURL</span> is a free open source application to shorten URL of any length.
             </p>
             <p className="text-lg md:text-xl lg:text-2xl text-white text-center tracking-wider mt-8">
-              <a href="#" className="text-blue-300">Click Here</a> to checkout the repo of this website
+              <a href="https://github.com/somenath203/Mern-Stack-URL-Shortener-Frontend" className="text-blue-300" target='_blank' rel="noreferrer">Click Here</a> to checkout the repo of this website
             </p>
           </div>
 
