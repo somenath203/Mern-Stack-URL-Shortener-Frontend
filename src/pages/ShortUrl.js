@@ -88,7 +88,7 @@ const ShortUrl = () => {
             />
             {isSendingDataToBackend ? <button
               className="w-full lg:w-5/12 bg-purple-600 m-auto p-3 uppercase shadow-lg rounded-lg tracking-wider text-white text-lg lg:text-2xl transition-all duration-500 hover:bg-purple-500 cursor-not-allowed"
-              disabled={true}
+              disabled
             >Shortening...</button> : <button
               className="w-full lg:w-5/12 bg-purple-400 m-auto p-3 uppercase shadow-lg rounded-lg tracking-wider text-white text-lg lg:text-2xl transition-all duration-500 hover:bg-purple-500"
             >Short URL</button>}
